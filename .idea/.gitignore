@@ -1,0 +1,4 @@
+# Default ignored files
+# Исключаем файл TaskTracker нужный для отладки
+TaskTracker.*
+/workspace.xml
